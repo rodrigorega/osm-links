@@ -51,7 +51,7 @@ Organize categories, subcategories, and items alphabetically.
 ## Visualization
 
 - [OSM Heatmap](http://yosmhm.neis-one.org/): View a heatmap of a user's changes.
-
+- [OSM Landuse](https://osmlanduse.org/#12/-7.5419/43.04831/0/)
 
 # Learning
 Guides and resources for beginners trying to get into this whole mapping thing.
