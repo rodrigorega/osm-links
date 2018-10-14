@@ -61,6 +61,7 @@ Guides and resources for beginners trying to get into this whole mapping thing.
 
 # Mapping
 
+- [Deriviste](https://osm.cycle.travel/deriviste/): A simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery.
 - [TagInfo](https://taginfo.openstreetmap.org/): Statistics on tags.
 
 ## Error Detection
